@@ -16,7 +16,7 @@ Resumes are an ideal example of unstructured data. Since there is no widely acce
 # Architecture
 ![Overall-Architecture-of-the-Proposed-System](https://github.com/abinashsahoo007/Project-Resume-Classification/assets/174187930/59208bed-273e-47d8-9383-9fe97514d1fb)
 >
-**The basic data analysis process performed such as data collection, text mining, data cleaning, exploratory data analysis, data visualization.**
+**🔹The basic data analysis process performed such as data collection, text mining, data cleaning, exploratory data analysis, data visualization.**
 >
 **🔹Building a Machine learning model for Resume Classification using Python and basic Natural language processing techniques.**
 >
