@@ -42,4 +42,8 @@ Resumes are an ideal example of unstructured data. Since there is no widely acce
 
 # Final Model:
   Model Selected: **Random Forest Classifier**
-  
+
+# Deployment: 
+  **Streamlit App Used**
+
+
