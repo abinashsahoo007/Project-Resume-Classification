@@ -2,6 +2,9 @@
 
 ![1_HNxc6VCVkRCWV4Rdr0SMiQ](https://github.com/abinashsahoo007/Project-Resume-Classification/assets/174187930/63ead643-6570-4e34-9b7c-6ac7a94328ad)
 
+## PPT Presentation:
+[View presentation](https://docs.google.com/presentation/d/1mDSFxBfpzJGetrCUC_Eyt_1tfaiqTE0U/edit#slide=id.p37)
+
 # Business Problem:
 The document classification solution should significantly reduce the manual human effort in the HRM. It should achieve a higher level of accuracy and automation with minimal human.
 
