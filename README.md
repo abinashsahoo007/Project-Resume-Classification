@@ -47,4 +47,4 @@ Resumes are an ideal example of unstructured data. Since there is no widely acce
   **Streamlit App Used**
 
 ![Screenshot 2024-06-30 224534](https://github.com/abinashsahoo007/Project-Resume-Classification/assets/174187930/48f342e3-b2b0-42a8-a7fd-676326123b59)
-
+![Screenshot 2024-06-30 224550](https://github.com/abinashsahoo007/Project-Resume-Classification/assets/174187930/499f6d69-8180-4b68-8688-eddff081c3b5)
