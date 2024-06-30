@@ -13,3 +13,27 @@ A resume is a brief summary of your skills and experience. Companies recruiters 
 
 Resumes are an ideal example of unstructured data. Since there is no widely accepted resume layout, each resume may have its own style of formatting, different text blocks and different category titles. Building a resume classification and gathering text from it is no easy task as there are so many kinds of layouts of resumes that you could imagine.
 
+# Architecture
+![Overall-Architecture-of-the-Proposed-System](https://github.com/abinashsahoo007/Project-Resume-Classification/assets/174187930/59208bed-273e-47d8-9383-9fe97514d1fb)
+>
+**The basic data analysis process performed such as data collection, text mining, data cleaning, exploratory data analysis, data visualization.**
+>
+**🔹Building a Machine learning model for Resume Classification using Python and basic Natural language processing techniques.**
+>
+**🔹Used Python's libraries to implement various NLP techniques like tokenization, lemmatization, parts of speech tagging, etc.**
+>
+**🔹A resume classification analyzes resume data and extracts the information into the machine-readable output. It helps automatically store, organize, and analyze the resume data to find out the candidate for the particular job position and requirements.**
+>
+**🔹The aim of this project is achieved by performing the various data analysis methods and using the Machine Learning models and Natural Language Processing which will help in classifying the categories of the resume and building the Resume Classification Model.**
+
+# Different ML Algorithm used:
+1. Logistic Regression
+2. DecisionTree Classifier
+3. KNN Classifier
+4. SVM Classifier
+5. NaiveBayes Classifier
+6. RandomForest Classifier
+7. Bagging Classifier
+8. AdaBoost Classifier
+9. Gradient Boosting Classifier
+10. Voting Classifier
