@@ -41,7 +41,8 @@ Resumes are an ideal example of unstructured data. Since there is no widely acce
 ![Screenshot 2024-06-30 224032](https://github.com/abinashsahoo007/Project-Resume-Classification/assets/174187930/6255bd47-c6a0-4172-a377-200f14ea13ba)
 
 # Final Model:
-  Model Selected: **Random Forest Classifier**
+  - <span style="color:red;">Red Text</span>
+  - Model Selected: **Random Forest Classifier**
 
 # Deployment: 
   **Streamlit App Used**
