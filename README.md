@@ -44,15 +44,18 @@ Resumes are an ideal example of unstructured data. Since there is no widely acce
 ![Screenshot 2024-06-30 224032](https://github.com/abinashsahoo007/Project-Resume-Classification/assets/174187930/6255bd47-c6a0-4172-a377-200f14ea13ba)
 
 # Final Model:
-  - Model Selected:  **Random Forest Classifier**
+  - Model Selected:  **Random Forest Classifier** <br>
+  >
+  **Random Forest Classifier :** RFC works by creating multiple decision trees during the training phase and outputting the mode of the classes (classification) or mean prediction (regression) of the individual trees.
 
 
-    
+>
 # Deployment: 
   *For Deployment **Streamlit App** is Used*
-
-## You can run deployment here:
-[Click Here to View Deployment Page](http://localhost:8501/)
+  
+>
+## You can view deployment here:
+**Link Available Here:** [Click Here to View Deployment Page](http://localhost:8501/)
 
 ![Screenshot 2024-06-30 224534](https://github.com/abinashsahoo007/Project-Resume-Classification/assets/174187930/48f342e3-b2b0-42a8-a7fd-676326123b59)
 ![Screenshot 2024-06-30 224550](https://github.com/abinashsahoo007/Project-Resume-Classification/assets/174187930/499f6d69-8180-4b68-8688-eddff081c3b5)
